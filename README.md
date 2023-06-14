@@ -35,6 +35,6 @@ python main.py --input <path_to_video>
 
 ## Examples
 - See the `examples` directory for sample video sequences demonstrating the multi-object tracking system's capabilities.
-- 
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
